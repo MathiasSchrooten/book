@@ -1,0 +1,2 @@
+1. Pro Git: chapter 1 and 2;
+2. Core Java V1
